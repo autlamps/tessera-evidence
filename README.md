@@ -1,6 +1,6 @@
 # Tessera Evidence
 
-## How to run this project
+## How to run this evidence
 
 1. Download node.js and NPM from https://nodejs.org/en/
 2. Download and install serve by typing the following command into a terminal: npm i serve
